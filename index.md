@@ -7,6 +7,6 @@ Rustfun is under construction.
 
 Luo Jia
 
-Website: https://luojia.cc/
+Website: [https://luojia.cc/](https://luojia.cc)
 
-Mail: me@luojia.cc
+Mail: [me@luojia.cc](mailto:me@luojia.cc)
